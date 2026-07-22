@@ -6,6 +6,9 @@ const Skills = () => {
       <div>Skills</div>
       <div>
         <h3>python</h3>
+        <h3>fastapi</h3>
+        <h3>React</h3>
+        <h3>Next</h3>
       </div>
     </div>
   )
